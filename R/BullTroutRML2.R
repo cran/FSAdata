@@ -1,6 +1,6 @@
 #' @title Ages and lengths of Bull Trout from two Rocky Mountain lakes at two times.
 #' 
-#' @description Assigned ages (from otoliths) and fork lengths of Bull Trout (\emph{Salvelinus confluentis}) from two Rocky Mountain lakes in Alberta, CA before and after a regulation change.
+#' @description Assigned ages (from otoliths) and fork lengths of Bull Trout (\emph{Salvelinus confluentis}) from two Rocky Mountain lakes in Alberta, CAN before and after a regulation change.
 #' 
 #' @note The historical (1977-1980) era samples were from before restrictive sportfishing regulatory regimes were implemented (in the 1990s) that led to changes in abundance and population structure of bull trout.
 #' 
@@ -24,7 +24,7 @@
 #' 
 #' @concept Growth 'Von Bertalanffy'
 #' 
-#' @source Extracted (approximately) from Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  \href{https://www.researchgate.net/publication/233144141_Bull_Trout_Population_Responses_to_Reductions_in_Angler_Effort_and_Retention_Limits}{Bull trout population responses to reductions in angler effort and retention limits.}  North American Journal of Fisheries Management, 27:848-859.
+#' @source From (approximately) Figure 2 of Parker, B.R., D.W. Schindler, F.M. Wilhelm, and D.B. Donald.  2007.  Bull trout population responses to reductions in angler effort and retention limits.  North American Journal of Fisheries Management, 27:848-859.  [Was (is?) from https://www.researchgate.net/publication/233144141_Bull_Trout_Population_Responses_to_Reductions_in_Angler_Effort_and_Retention_Limits.]
 #' 
 #' @keywords datasets
 #' 

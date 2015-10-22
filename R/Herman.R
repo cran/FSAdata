@@ -1,4 +1,4 @@
-#' @title Lengths of four species from Lake Herman, SD.
+#' @title Lengths for Walleye, Yellow Perch, Black Crappie, and Black Bullheads from Lake Herman, SD.
 #' 
 #' @description Total lengths of Walleye (\emph{Sander vitreus}), Yellow Perch (\emph{Perca flavescens}), Black Crappie (\emph{Pomoxis nigromaculatus}), and Black Bullheads (\emph{Ameiurus melas}) for four years in Lake Herman, SD.
 #' 
@@ -17,14 +17,14 @@
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Length frequency
+#'    \item Length Frequency
 #'    \item Size Structure
 #'    \item PSD
 #'  }
 #'  
 #' @concept 'Length Frequency' 'Size Structure' PSD
 #' 
-#' @source Extracted from a South Dakota Fish and Game report that was originally at \url{www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf}.  It does not appear to be there (or anywhere) now.
+#' @source From a South Dakota Fish and Game report that was (does not appear to be there (or anywhere) now) at http://www.sdgfp.info/Wildlife/fishing/SELakes/Herman05.pdf.
 #' 
 #' @keywords datasets
 #' 

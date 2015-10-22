@@ -8,22 +8,22 @@
 #' 
 #' @format A data frame with 27 paired observations on the following 3 variables.
 #'  \describe{
-#'    \item{scale}{Ages assigned from scales.}
-#'    \item{whole}{Ages assigned from whole otoliths.} 
-#'    \item{cross}{Ages assigned from cross-sections of otoliths.} 
+#'    \item{scale}{Ages assigned from scales}
+#'    \item{whole}{Ages assigned from whole otoliths} 
+#'    \item{cross}{Ages assigned from cross-sections of otoliths} 
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age comparison 
-#'    \item Age precision 
+#'    \item Age Comparison 
+#'    \item Age Precision 
 #'    \item Age Bias
-#'    \item Ageing error
+#'    \item Ageing Error
 #'  }
 #'  
 #' @concept Age Precision Bias 'Age Comparison'
 #' 
-#' @source Extracted from tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002.  The Canada-United States yellowtail flounder age reading workshop: 28-30 November2000, St. John's, Newfoundland.  North Atlantic Fisheries Organization.  Scientific Council Studies 35:1-59.
+#' @source From tables in Annex 3 of Walsh, S.J. and J. Burnett. 2002.  The Canada-United States yellowtail flounder age reading workshop: 28-30 November2000, St. John's, Newfoundland.  North Atlantic Fisheries Organization.  Scientific Council Studies 35:1-59.
 #' 
 #' @keywords datasets
 #' 

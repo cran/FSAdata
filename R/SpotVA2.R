@@ -1,6 +1,6 @@
-#' @title Age (subsample) and length (all fish) of Spot.
+#' @title Ages (subsample) and lengths (all fish) for Spot.
 #' 
-#' @description As many as 10 fish per 1-inch total length intervals from the \code{SpotVA1} data frame were obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
+#' @description As many as 10 fish per 1-inch total length intervals from the \code{\link[FSA]{SpotVA1}} data frame were obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
 #' 
 #' @name SpotVA2
 #' 
@@ -8,20 +8,20 @@
 #' 
 #' @format A data frame of 403 observations on the following 2 variables:
 #'  \describe{
-#'    \item{tl}{Measured total lengths (in inches).} 
-#'    \item{age}{Ages assigned from examination of otoliths.} 
+#'    \item{tl}{Measured total lengths (in inches)}
+#'    \item{age}{Ages assigned from examination of otoliths} 
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age-length key 
+#'    \item Age-Length Key 
 #'  }
 #' 
 #' @concept 'Age-Length Key'
 #' 
 #' @seealso \code{SpotVA1} in \pkg{FSA}.
 #' 
-#' @source Extracted from Table 1 in Chapter 8 (Spot) of the VMRC Final Report on Finfish Ageing, 2002 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+#' @source From Table 1 in Chapter 8 (Spot) of the VMRC Final Report on Finfish Ageing, 2002 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
 #' 
 #' @keywords datasets
 #' 

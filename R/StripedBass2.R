@@ -1,7 +1,6 @@
 #' Ages and lengths of Atlantic Ocean Striped Bass.
 #' 
-#' Assigned ages (from otoliths) and measured total lengths for each of 1201
-#' Striped Bass (\emph{Morone saxatilis}) from the Atlantic Ocean.
+#' Assigned ages (from otoliths) and measured total lengths for each of 1201 Striped Bass (\emph{Morone saxatilis}) from the Atlantic Ocean.
 #' 
 #' @name StripedBass2
 #' 
@@ -23,7 +22,7 @@
 #' 
 #' @seealso \code{\link{StripedBass3}}.
 #' 
-#' @source Extracted from Table 1 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+#' @source From Table 1 in Chapter 10 (Striped Bass) of the VMRC Final Report on Finfish Ageing, 2003 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
 #' 
 #' @keywords datasets
 #' 

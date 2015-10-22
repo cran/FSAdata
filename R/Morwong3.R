@@ -8,21 +8,21 @@
 #' 
 #' @format A data frame with 58 paired observations on the following 2 variables.
 #'  \describe{
-#'    \item{readerA}{Ages assigned by Reader A.}
-#'    \item{readerB}{Ages assigned by Reader B.}
+#'    \item{readerA}{Ages assigned by Reader A}
+#'    \item{readerB}{Ages assigned by Reader B}
 #'  }
 #'  
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Age comparison 
-#'    \item Age precision 
+#'    \item Age Comparison
+#'    \item Age Precision 
 #'    \item Age Bias
-#'    \item Ageing error
+#'    \item Ageing Error
 #'  }
 #'  
 #' @concept Age Precision Bias 'Age Comparison'
 #' 
-#' @source Extracted from table 7  of Restall, J.E., and K. Krusic-Golub.  2004.  Development of jackass morwong age-length keys for 2000-2002. Final report to Australian Fisheries Management Authority. 13 pp. Primary Industries Research Victoria, Queenscliff.  Available at http://web-test.afma.gov.au/wp-content/uploads/2010/07/r03_1724b.pdf.
+#' @source From Table 7  of Restall, J.E., and K. Krusic-Golub.  2004.  Development of jackass morwong age-length keys for 2000-2002. Final report to Australian Fisheries Management Authority. 13 pp. Primary Industries Research Victoria, Queenscliff.  Available at http://web-test.afma.gov.au/wp-content/uploads/2010/07/r03_1724b.pdf.
 #' 
 #' @keywords datasets
 #' 

@@ -8,21 +8,22 @@
 #' 
 #' @format A data frame of 14 observations on the following 5 variables:
 #'  \describe{
-#'    \item{year}{Year of data.} 
-#'    \item{ssb}{Spawning stock biomass (in tonnes).} 
-#'    \item{rec}{Recruits (in thousands).} 
-#'    \item{land}{Landings (in tonnes).} 
-#'    \item{fmort}{Fishing related mortality.} 
+#'    \item{year}{Year of data}
+#'    \item{ssb}{Spawning stock biomass (in tonnes)}
+#'    \item{rec}{Recruits (in thousands)}
+#'    \item{land}{Landings (in tonnes)}
+#'    \item{fmort}{Fishing related mortality (natural mortality was assumed to be 0.3)}
 #'  }
 #' 
 #' @section Topic(s):
 #'  \itemize{
-#'    \item Stock-recruit 
+#'    \item Stock-Recruit
+#'    \item Recruitment
 #'  }
 #' 
-#' @concept 'Stock-Recruit'
+#' @concept 'Stock-Recruit' Recruitment
 #' 
-#' @source from from Petzold, M. 1995.  An historical analysis of the Lake Whitefish fisheries of Thunder Bay (Zone 1) and Whitefish Bay (Zone 34), Lake Superior.  Ontario Min. of Nat. Res. unpubl. manuscript.  Obtained from \href{http://ram.biology.dal.ca/~myers/data.html}{Ransom Myers online database}.
+#' @source From Petzold, M. 1995.  An historical analysis of the Lake Whitefish fisheries of Thunder Bay (Zone 1) and Whitefish Bay (Zone 34), Lake Superior.  Ontario Min. of Nat. Res. unpubl. manuscript.  Obtained from Ransom Myers online database which was (is?) at http://ram.biology.dal.ca/~myers/data.html.
 #' 
 #' @keywords datasets
 #' 

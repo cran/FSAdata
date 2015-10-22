@@ -8,8 +8,8 @@
 #' 
 #' @format A data frame with 119 observations on the following 2 variables.
 #'  \describe{
-#'    \item{age}{Age (from otoliths).}
-#'    \item{tl}{Total length (mm).} 
+#'    \item{age}{Age (from otoliths)}
+#'    \item{tl}{Total length (mm)}
 #'  }
 #'  
 #' @section Topic(s):
@@ -20,7 +20,7 @@
 #'  
 #' @concept Growth 'von Bertalanffy'
 #' 
-#' @source Extracted (approximately) from Figure 2 of Maceina, M.J.  2007.  Use of piecewise nonlinear models to estimate variable size-related mortality rates.  North American Journal of Fisheries Management, 27:971-977.
+#' @source From (approximately) Figure 2 of Maceina, M.J.  2007.  Use of piecewise nonlinear models to estimate variable size-related mortality rates.  North American Journal of Fisheries Management, 27:971-977.
 #' 
 #' @keywords datasets
 #' 

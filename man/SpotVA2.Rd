@@ -3,22 +3,22 @@
 \docType{data}
 \name{SpotVA2}
 \alias{SpotVA2}
-\title{Age (subsample) and length (all fish) of Spot.}
+\title{Ages (subsample) and lengths (all fish) for Spot.}
 \format{A data frame of 403 observations on the following 2 variables:
  \describe{
-   \item{tl}{Measured total lengths (in inches).}
-   \item{age}{Ages assigned from examination of otoliths.}
+   \item{tl}{Measured total lengths (in inches)}
+   \item{age}{Ages assigned from examination of otoliths}
  }}
 \source{
-Extracted from Table 1 in Chapter 8 (Spot) of the VMRC Final Report on Finfish Ageing, 2002 by the \href{http://ww2.odu.edu/sci/cqfe/}{Center for Quantitative Fisheries Ecology} at Old Dominion University.
+From Table 1 in Chapter 8 (Spot) of the VMRC Final Report on Finfish Ageing, 2002 by the Center for Quantitative Fisheries Ecology at Old Dominion University.
 }
 \description{
-As many as 10 fish per 1-inch total length intervals from the \code{SpotVA1} data frame were obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
+As many as 10 fish per 1-inch total length intervals from the \code{\link[FSA]{SpotVA1}} data frame were obtained for age assignment.  The remaining fish in the file were only measured for length (i.e., the ages were deleted).  This data file can be used to demonstrate the use of age-length keys.
 }
 \section{Topic(s)}{
 
  \itemize{
-   \item Age-length key
+   \item Age-Length Key
  }
 }
 \examples{

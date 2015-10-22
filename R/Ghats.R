@@ -12,7 +12,14 @@
 #'    \item{cumspec}{cumulative number of species described in the reviewed manuscripts.} 
 #'  }
 #'  
-#' @source Extracted (approximately) from Figure 1 in Dahanukar, N., R. Raut,  and A. Bhat.  2004.  Distribution, endemism and threat status of freshwater fishes in the Western Ghats of India.  Journal of Biogeography 31:123-126.
+#' @section Topic(s):
+#'  \itemize{
+#'    \item Other
+#'  }
+#'
+#' @concept Other
+#'   
+#' @source From (approximately) Figure 1 in Dahanukar, N., R. Raut,  and A. Bhat.  2004.  Distribution, endemism and threat status of freshwater fishes in the Western Ghats of India.  Journal of Biogeography 31:123-126.
 #' 
 #' @keywords datasets
 #' 
