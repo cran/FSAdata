@@ -1,5 +1,5 @@
 46aaf69a91703493b666f212a04f2d8d *COPYING
-f3c5a13d57e648e3721435a8b23bc081 *DESCRIPTION
+df0e6f5522fe385b7a6673325915b9ff *DESCRIPTION
 46dc2b4d363bbe3dead91c137771f3ba *NAMESPACE
 69da23de4a5b7f7903d907608d946d88 *R/AHerringChile.R
 68706d368999ceb54ab5425aef6934e5 *R/AfricanRivers.R
@@ -14,6 +14,7 @@ bab3d8937663dfcad80e1117df115cfc *R/BlackDrum2001.R
 919c142cea16deae2767a29d6db26f57 *R/BlueCatfish.R
 9c716985bde5939fa846a97b18be28ff *R/BlueCrab.R
 ba5d58541709d55c491df08c16cbbf56 *R/BluefishAge.R
+c3c6b5e42d8c6b613b31329a1f5d7cf2 *R/BluegillIL.R
 f8f8c8b42136a2d11127d2daff3de448 *R/BluegillLM.R
 fbc72dc5ecb70caaecf0593d9bfce65a *R/BluntnoseIL1.R
 2fe5a150c06ad3f0f0500f5917b455f4 *R/Bonito.R
@@ -26,7 +27,7 @@ ce91af31493e369c9903f85e921ca7ff *R/BrownTroutVC1.R
 5475be8f0b1d5e7a18cfe2db66d697ac *R/BullTroutRML2.R
 1b2e2263998f91ceb0045bc8b1e849a5 *R/BullTroutTC.R
 03cb464ab45cd433a670bab445af4eef *R/CCatfishNB.R
-629d837b6764c8e6438f92261af15fe3 *R/Cabezon.R
+6d7c73ed84158d822388bb71bb2f0f0d *R/Cabezon.R
 0d028f9c79584c12ac485345d27689d3 *R/Casselman1990.R
 ccca4a493aa1357eedd3cf8d5466d4b5 *R/ChinookKR.R
 2edfbdcadce857e37a85be169be3b8d2 *R/CiscoTL.R
@@ -91,7 +92,7 @@ d3ea9b52b100f335a7ca1c9c2dc45837 *R/PikeHL.R
 62f44dcf95b1ac6de3d6db77fb75675d *R/PygmyWFBC.R
 f1ac2365a83a7f7c3d9b223c5c274238 *R/RBSmeltErie.R
 e256bb30b463b24d2ad56dc95f98b9c0 *R/RBSmeltLM.R
-d30c542d912006c49f682db3481597f4 *R/RBTroutKenai.R
+4bb4d4105084c79fb651ff14c34d4af7 *R/RBTroutKenai.R
 be31445a6fd9c301f6573c9292473dd5 *R/RBTroutUNSP.R
 8f256ecbc1abc54dbc93b89ffb8c3445 *R/RWhitefishAI.R
 e9b40c55c7f5941a5a3cce95800543b4 *R/RWhitefishIR.R
@@ -100,7 +101,7 @@ f3eba0194aa82ea7d116cce8c0364f5e *R/Riffleshell.R
 9a6019aef07831b6f66c7f3062cc864d *R/RockBassCL.R
 6d7d6f8254bfdd9b4796615dcc6061fc *R/RockBassL01.R
 f63131f0f7e251a30f7f09fdc2db83b9 *R/RockBassL02.R
-32ac69944183aed7f59b401fdc1ac81a *R/RuffeSLRH92.R
+63828ea0d6a8c0324f7c98a0a32b777c *R/RuffeSLRH92.R
 10032e612c710a7b047c253b31677150 *R/RuffeTL89.R
 762912c7c98793e8674c7e8e297b4c27 *R/SLampreyGL.R
 64ce7d863f3764c2e49d9303de8e879b *R/SalmonADP.R
@@ -142,9 +143,9 @@ ce1efe5b7130c5ef88fd5117fea0a32e *R/WShrimpGA.R
 9706f5884284595f9b96ee1f2030b170 *R/WalleyeConsumption.R
 1aa61c5a54e788b5ee2ac9f03b6107d0 *R/WalleyeEL.R
 41d2f58b0f2ca0c9818eb69e9f6cad6e *R/WalleyeErie.R
-6930862316d925755f568a88515a0032 *R/WalleyeErie2.R
+8b6a2509a017225c388573443af474d2 *R/WalleyeErie2.R
 75decc1e41892f17231c3d5dcc76cfb0 *R/WalleyeKS.R
-710e0b1e0324fc31873299c1c51417df *R/WalleyeML.R
+b8d23339cd009faae9e85d74225a574c *R/WalleyeML.R
 8ff8247f78b0d1515133a10c85db463c *R/WalleyeMN06a.R
 8271c1f83fb6cae786e1d338a462a9f4 *R/WalleyeMN06b.R
 2f37528ebbc9123becb5e932f1cfdcb1 *R/WalleyePL.R
@@ -158,7 +159,7 @@ dfc4aaa6f78ef716d657b3de2a8d7c34 *R/WhiteGrunt1.R
 89efd7e78a740aaf6da7d34a3831565a *R/WhitefishLS.R
 59a7f2124b35100005fd4f9bd6667d8d *R/WhitefishMB.R
 17a77f4040c11ad4bcd2fe5164d373cb *R/WhitefishTB.R
-96a678400756c3a4169b5c93ebf874fe *R/YERockfish.R
+3cd7d5df192907be1275fe45a4b8bd5a *R/YERockfish.R
 e55dd8d0a65f110e03da97456582a0d0 *R/YPerchCB1.R
 cf1c6f067ad327c2fff81bbd03076ecf *R/YPerchCB2.R
 b66ed42b917e77b9011d661584cdac1f *R/YPerchGB.R
@@ -181,6 +182,7 @@ d6f8f55cde4106cc1d319416aaa71345 *data/BlackDrum2001.rdata
 e869e8b9a717f28cc8d24f0fcb57393d *data/BlueCatfish.rdata
 ff5a80bb368970ea58d2da0f230c1ba0 *data/BlueCrab.rdata
 51d083fb091fe3314716124d312fe258 *data/BluefishAge.rdata
+c1b49e1538cac255f7fed5f501014372 *data/BluegillIL.rdata
 8148a242ab7f0aeac659bb63d7dbece9 *data/BluegillLM.rdata
 db7d211d80defe5295903ed1a082dff6 *data/BluntnoseIL1.rdata
 8734166902bb145b7bf9ebf938e06886 *data/Bonito.rdata
@@ -347,6 +349,7 @@ ac218c24a5d58e98d2004082d5364627 *man/BlackDrum2001.Rd
 06aeb108cfe4d1f782c36f71fd57971c *man/BlueCatfish.Rd
 22c8c5c3872d85f83d31feab1f240b7e *man/BlueCrab.Rd
 0a3115afba7402609f1c44d7c12beeac *man/BluefishAge.Rd
+4ef0ef36f57e190065f72fbe7d756763 *man/BluegillIL.Rd
 6e7e99d6d4cea6f79de73333b89d4054 *man/BluegillLM.Rd
 5292b1b6228545daa58d8ae071903823 *man/BluntnoseIL1.Rd
 88476cc0a3eeecbdf0f28b8f2ce8a166 *man/Bonito.Rd
@@ -359,7 +362,7 @@ bf598649543d26c77aa9a3660ac26fd2 *man/BullTroutRML1.Rd
 cee169c932e1219dc4303766021fdae0 *man/BullTroutRML2.Rd
 68a6bd1b87c91c69ed29e718661c051f *man/BullTroutTC.Rd
 e8c5ccc8e94c3d4a07cfedfd77f16de4 *man/CCatfishNB.Rd
-ff1f19666b49a3a0ecf192372f7f5639 *man/Cabezon.Rd
+4d926edf2d5feae29f319320a8bb18be *man/Cabezon.Rd
 95818e758e41ffdb8890e47bfd9be012 *man/Casselman1990.Rd
 5dd0577dfc2148d32d93b4f4371bf9cf *man/ChinookKR.Rd
 44ceccb9936da4a92bed41ea919bc1ef *man/CiscoTL.Rd
@@ -424,7 +427,7 @@ ab016ac6f6c38940f7755fc8e627bafc *man/PikeIL.Rd
 36c61e233b8d2fccc1d9d277c03d7c00 *man/PygmyWFBC.Rd
 509b972f88d8824061a0dcffe2a89ef2 *man/RBSmeltErie.Rd
 cc77881a6f493fb5f617831f2d082569 *man/RBSmeltLM.Rd
-4f251d89ed3d8a51e99cc030b65bfba9 *man/RBTroutKenai.Rd
+4022a62c26e3d0fa699e53ed39dee109 *man/RBTroutKenai.Rd
 a53ec46cdea71d5feb59f73ad353e086 *man/RBTroutUNSP.Rd
 1c711990ef2b53958ffb6e21339f37a3 *man/RWhitefishAI.Rd
 c1745c77ddf39e27dbc54b84aa0c1a98 *man/RWhitefishIR.Rd
@@ -433,7 +436,7 @@ d24b49986a3dbf3f9a85bfef93945548 *man/Riffleshell.Rd
 fe2e677498c46eea935b675490e5cfd7 *man/RockBassCL.Rd
 15ac6ee92f455f997b9b85727790d007 *man/RockBassLO1.Rd
 5505faba0a791d4c0e2d840c414be068 *man/RockBassLO2.Rd
-267cbee499babc93d3377e4537c1a3f9 *man/RuffeSLRH92.Rd
+9f80b8086600da174f7d4606379747a4 *man/RuffeSLRH92.Rd
 02d296494b64d90281deffe1104dd44b *man/RuffeTL89.Rd
 ad6ed21ad0036a89047e4258254e4ae0 *man/SLampreyGL.Rd
 6456b7df2582e100aa6c8898a79379ce *man/SalmonADP.Rd
@@ -475,9 +478,9 @@ c8429d53ee08bddcaa9118eca39ef4ca *man/TroutperchLM2.Rd
 01d65bfe706c662d853506451ef7d1e7 *man/WalleyeConsumption.Rd
 472358f3b6360cec167bd798cf2c6dec *man/WalleyeEL.Rd
 78919aa3ad6ec5662e987abfa1c66b40 *man/WalleyeErie.Rd
-1b25743015db482c21379b2f394e1ac5 *man/WalleyeErie2.Rd
+8b29e082e0a775a63ca53f1c656878e0 *man/WalleyeErie2.Rd
 ce16b37021a5e2c56e26da9062d63e7b *man/WalleyeKS.Rd
-d8fdd1c87c2d79c8adb5110c567589ab *man/WalleyeML.Rd
+6c3f637491c996ea8430599f234869b8 *man/WalleyeML.Rd
 1f4639e43ccf68c5ba862f381b275510 *man/WalleyeMN06a.Rd
 a7a2fe62d0eceea9ee319644f7fc070a *man/WalleyeMN06b.Rd
 7ca0f7b20ad02d9b981f41d4667278ab *man/WalleyePL.Rd
@@ -491,7 +494,7 @@ d530e821ee3c8fab665f1b6969973c16 *man/WalleyeWyrlng.Rd
 6d5e72cd6fb1ff3413d583eafa3ea943 *man/WhitefishLS.Rd
 d5026ca0326a64a8cf5f6ac37d7c1f2e *man/WhitefishMB.Rd
 c7d37705af6fd57c84d59d2ba6abef1e *man/WhitefishTB.Rd
-1a6ac669e1149335cf8318424f288e21 *man/YERockfish.Rd
+0e3d7086e7572cfb57c6a59c335e0036 *man/YERockfish.Rd
 599078707f53b06e1d3039ebd083f7cc *man/YPerchCB1.Rd
 a2271c6880dbecd09f159baf1b4b09aa *man/YPerchCB2.Rd
 0a969636a18e258e137d48b87388a772 *man/YPerchGB.Rd
