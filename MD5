@@ -1,5 +1,5 @@
 46aaf69a91703493b666f212a04f2d8d *COPYING
-df0e6f5522fe385b7a6673325915b9ff *DESCRIPTION
+a0888d1f03a17338913094d71af34d67 *DESCRIPTION
 46dc2b4d363bbe3dead91c137771f3ba *NAMESPACE
 69da23de4a5b7f7903d907608d946d88 *R/AHerringChile.R
 68706d368999ceb54ab5425aef6934e5 *R/AfricanRivers.R
@@ -43,7 +43,7 @@ ff84b6b72c3290ba249228fabe22b72f *R/DarterMahon.R
 2cc222c2bb98205d66ba958a4228bee3 *R/EuroPerchTJ.R
 f95d31778abfb662d2056b0439d1c7f6 *R/FHCatfish.R
 34f6182706423f2309477043b4416c18 *R/FHCatfishATL.R
-1f6249b4660ade6ccb85360f0a4e8e3f *R/FSAdata-internals.R
+b4308810d5f4c8ec50439a9015f042f4 *R/FSAdata-internals.R
 fa2bca0c880d9a32b8d8b33c3ebf1cf5 *R/FSAdata.R
 fd3982367abaa754f0f3656c325d3ebc *R/FWDrumLE1.R
 ee46d3f21964bff64d5074c6d44d43b6 *R/FWDrumLE2.R
@@ -78,7 +78,7 @@ ca66ba070fbcb4b52e4a37793a05a00b *R/Morwong1.R
 b5cf7336ce167f455153b13c0836c592 *R/Morwong3.R
 5de9bb0dcd7c70468a9e4d7fcb4e3ef7 *R/Morwong4.R
 bc8730b7b10c10ee19709dbf94c026a1 *R/Morwong4a.R
-1d25639880afa0d8b3419ba154e6e5e8 *R/Mosquitofish.R
+503ec2e19a254747ddcf242cf0a32c84 *R/Mosquitofish.R
 c9cd31f790a33cb1a03470853537b9fd *R/MulletBS.R
 caadb49f24cd9bf19ba5ab703256673e *R/MuskieSLR.R
 f7cc2c7fbebe4f3ca9bbf2d7d2e3f07b *R/MuskieWI06MR.R
@@ -413,7 +413,7 @@ f7cd0c2dbfb44de3cc700d1ef58a6f06 *man/Morwong2.Rd
 de35fe5c8944822e98afc1e6a572ff6c *man/Morwong3.Rd
 fd3c70630e661412cd58f4bd794484d1 *man/Morwong4.Rd
 e38814c1d5374590362d2dfd6188c074 *man/Morwong4a.Rd
-e0eb660358dffc1eb9cabe7901cfb0dc *man/Mosquitofish.Rd
+210ecf45fcad75ebf10c8071e103c0a4 *man/Mosquitofish.Rd
 060284859a44a023e595d99393dab76c *man/MulletBS.Rd
 7d2f6de2e43b0eeac9cf44aa34aa6ae7 *man/MuskieSLR.Rd
 c569dc093f65f37a9ca6e10ff7472321 *man/MuskieWI06MR.Rd
