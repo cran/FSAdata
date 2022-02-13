@@ -1,7 +1,7 @@
 Package: FSAdata
 Title: Data to Support Fish Stock Assessment ('FSA') Package
-Version: 0.3.8
-Date: 2019-05-17
+Version: 0.3.9
+Date: 2022-02-12
 Description: The datasets to support the Fish Stock Assessment ('FSA') package.
 Authors@R: person("Derek","Ogle",
     email="derek@derekogle.com",
@@ -13,10 +13,10 @@ License: GPL (>= 2)
 LazyData: true
 Depends: R (>= 3.0.0)
 Encoding: UTF-8
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2019-05-18 01:28:39 UTC; dogle
+Packaged: 2022-02-13 00:58:32 UTC; dogle
 Author: Derek Ogle [aut, cre] (<https://orcid.org/0000-0002-0370-9299>)
 Maintainer: Derek Ogle <derek@derekogle.com>
 Repository: CRAN
-Date/Publication: 2019-05-18 04:10:52 UTC
+Date/Publication: 2022-02-13 03:30:09 UTC
